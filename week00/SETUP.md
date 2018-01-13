@@ -33,6 +33,19 @@ https://education.github.com/pack/join
 3 - Login to the SLUCOR Jupyter server
 ---
 
-https://j2018.slucor.net
+Goto https://j2018.slucor.net and click the "Signin with GitHub" button.
+
+If you weren't still logged into GitHub, you'll be prompted to login.  Enter your username and password and click SignIn.
+
+GitHub will ask if you want to allow j2018 to connect to your GitHub account. Click the Authorize button and you're in!
+
+Accessing Python with Jupyter
+===
+
+When you login for the first time, you'll get a "Start My Server" button.  Click that to get going.
+
+From then on, unless you manually stop your server, going to https://j2018.slucor.net will take you directly to your notebooks.
+
+
 
 
