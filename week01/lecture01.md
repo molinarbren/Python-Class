@@ -1,4 +1,4 @@
-# Week 01 - Computing Fundamentals (Aug 24)
+# Week 01 - Computing Fundamentals (Jan 22)
 _Gries Ch 1, 2_
 
 ## Introductions
