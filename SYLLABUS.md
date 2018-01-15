@@ -1,4 +1,4 @@
-# SLUCOR HDS5210 - Programming for Health Data Science - 2016 Fall
+# SLUCOR HDS5210 - Programming for Health Data Science - 2018 Spring
 
 ## General Information
 * _Meeting Time_: Mondays 6:00PM-9:00PM
