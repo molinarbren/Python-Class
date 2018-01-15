@@ -2,7 +2,7 @@
 
 ## General Information
 * _Meeting Time_: Mondays 6:00PM-9:00PM
-* _Location_: Salus 1420
+* _Location_: Salus 1412D
 * _Instructor_: Paul E. Boal
 *  boalpe@slu.edu
 *  314-598-5494
