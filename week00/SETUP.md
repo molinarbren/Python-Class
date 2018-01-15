@@ -31,9 +31,6 @@ https://education.github.com/pack/join
 
 Goto https://github.com and login if you aren't already signed in.
 
-![Login Screen](screenshots/login-to-github.png)
-
-
 3 - Login to the SLUCOR Jupyter server
 ---
 
@@ -42,6 +39,8 @@ Goto https://j2018.slucor.net and click the "Signin with GitHub" button.
 ![Signin Button](screenshots/login-with-github.png)
 
 If you weren't still logged into GitHub, you'll be prompted to login.  Enter your username and password and click SignIn.
+
+![Login Screen](screenshots/login-to-github.png)
 
 GitHub will ask if you want to allow j2018 to connect to your GitHub account. Click the Authorize button and you're in!
 
